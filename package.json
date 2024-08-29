@@ -1,0 +1,9 @@
+{
+  "name": "tezzz-rn-template",
+  "version": "1.0.0",
+  "main": "template.config.js",
+  "author": "Nuriddin Muhammadjanov",
+  "license": "MIT",
+  "description": "React Native Template with Typescript",
+  "repository": "git@github.com:BenHurMartins/react-native-template-ts-redux-navigation.git"
+}
